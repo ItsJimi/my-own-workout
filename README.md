@@ -4,7 +4,7 @@ Stay focus on your workout with this minimalistic application.
 
 ## Features
 
-> Currently implemented features. To see the future of this application, check the [next step](#next-step) section.
+> Currently implemented features. To see the future of this application, check the [next steps](#next-steps) section.
 
 ### Primary
 
@@ -23,7 +23,7 @@ Stay focus on your workout with this minimalistic application.
 The floating button let you start and pause the stopwatch. To reset it, tap anywhere on the screen.
 > Note: You can reset the stopwatch without pausing it.
 
-## Next step
+## Next steps
 
 - [ ] Display your own workout program (plain text)
 - [ ] Better display of workout program
