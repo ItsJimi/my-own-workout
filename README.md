@@ -14,7 +14,7 @@ Stay focus on your workout with this minimalistic application.
 
 ☀️ Keep screen awake
 
-✒️ Light/Dark theme
+✒️ Light and dark themes
 
 ## Usage
 
